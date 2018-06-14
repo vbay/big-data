@@ -41,23 +41,38 @@
 ![](/Users/wangxiaolei/github/big-data/article/image/user/share/qrcode_for_gh_6932763778ef_344.jpg)
 ## 第I部分 为大数据做基础准备
 ### 第1章 开门见山
-  - [ ]1.1 Linux使用技巧快速入门
-  - [ ]1.2 Virtualbox虚拟机快速入门
-  - [ ]1.3 Hadoop伪分布式部署
+- [ ]1.1 Virtualbox虚拟机快速入门
+- [ ]1.2 Linux使用技巧快速入门
+- [ ]1.3 virtualbox虚拟机创建集群机器
 
 ## 第II部分 分布式计算应用构建与编程
-### 第2章 大数据生态中的组件实战
-- [ ]2.1 hadoop部署与编程实战
-  - [ ]基于intellij IDEA开发Hadoop程序
-  - [ ]Hadoop 集群式部署
-- [ ]2.2 Sqoop
-- [ ]2.3 spark
-- [ ]2.4 hive
+### 第2章 Hadoop初步入门
+- [ ]2.1 Hadoop伪分布式部署
+- [ ]2.2 hadoop集群式部署
+- [ ]2.3 实战基于intellij IDEA开发第一个Hadoop应用程序
+
+### 第3章 Sqoop从关系型数据库中获取数据
+- [ ]3.1 Sqoop快速搭建
+- [ ]3.2 实战Sqoop从Mysql中导出数据
+
+### 第4章 Spark核心组件
+- [ ]4.1 Spark超快入门——开发第一个spark应用程序
+- [ ]4.2 Spark RDD，Spark SQL应用
+- [ ]4.3 实战Spark基于Hadoop yarn发布应用
+
+### 第5章 Zookeeper了解一下
+- [ ] 5.1 Zookeeper 了解一下
+
+### 第6章 Hbase应用
+- [ ]6.1 超快入门Hbase
+- [ ]6.2 Hbase数据范式
+
+## 第7章 Kafka应用
 
 ## 第III部分 大数据应用架构
-### 第3章 批处理——大数据应用架构
+### 第8章 批处理——大数据应用架构
 
-### 第4章 实时处理——大数据应用架构
+### 第9章 实时处理——大数据应用架构
 ### :pencil2: 该页面其余内容仍在努力构建中...
 Avro
 parquet
@@ -71,4 +86,4 @@ zookeeper
 Oozie 工作流协调调度工具
 
 
-创建时间：2018.06.11-晚
+- 创建时间：2018.06.11-晚
