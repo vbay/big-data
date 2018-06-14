@@ -39,10 +39,14 @@
 ## 关注公众号，进微信群交流，扫一扫，或者搜【从入门到精通】
 
 ![](/Users/wangxiaolei/github/big-data/article/image/user/share/qrcode_for_gh_6932763778ef_344.jpg)
+
+
+- [x][摘要](#摘要)
+
 ## 第I部分 为大数据做基础准备
 ### 第1章 开门见山
-- [ ] 1.1 Virtualbox虚拟机快速入门
-- [ ] 1.2 Linux使用技巧快速入门
+- [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.virtualbox-quick-start.md)
+- [x] [1.2 Linux使用技巧快速入门](article/chapter1/2.linux-quick-start.md)
 - [ ] 1.3 virtualbox虚拟机创建集群机器
 
 ## 第II部分 分布式计算应用构建与编程
