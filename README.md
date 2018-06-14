@@ -38,7 +38,7 @@
 
 ## 关注公众号，进微信群交流，扫一扫，或者搜【从入门到精通】
 
-![](/Users/wangxiaolei/github/big-data/article/image/user/share/qrcode_for_gh_6932763778ef_344.jpg)
+![](./article/image/user/share/qrcode_for_gh_6932763778ef_344.jpg)
 
 
 - [x][摘要](#摘要)
