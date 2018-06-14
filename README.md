@@ -15,7 +15,7 @@
 
 :tada:  最新文章：[“卜算子·大数据”目录——系列文章与源码介绍](#摘要)
 
-## 项目地址 https://github.com/wangxiaoleiAI/machine-learning
+## 项目地址 https://github.com/wangxiaoleiAI/big-data
 
 ## 摘要
 - “卜算子·大数据”是什么？
