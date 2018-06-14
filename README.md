@@ -45,13 +45,13 @@
 
 ## 第I部分 为大数据做基础准备
 ### 第1章 开门见山
-- [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.virtualbox-quick-start.md)
-- [x] [1.2 Linux使用技巧快速入门](article/chapter1/2.linux-quick-start.md)
+- [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.1 virtualbox-quick-start.md)
+- [x] [1.2 Linux使用技巧快速入门](article/chapter1/1.2 linux-quick-start.md)
 - [ ] 1.3 virtualbox虚拟机创建集群机器
 
 ## 第II部分 分布式计算应用构建与编程
 ### 第2章 Hadoop初步入门
-- [ ] 2.1 Hadoop伪分布式部署
+- [ ] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1 hadoop-single-cluster.md)
 - [ ] 2.2 hadoop集群式部署
 - [ ] 2.3 实战基于intellij IDEA开发第一个Hadoop应用程序
 
