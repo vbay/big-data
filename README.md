@@ -15,10 +15,10 @@
 
 :tada:  **最新文章：**
 
-- [x][“卜算子·大数据”目录——系列文章与源码介绍,目录](#摘要)
+- [x] [“卜算子·大数据”目录——系列文章与源码介绍,目录](#摘要)
 - [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.1virtualbox-quick-start.md)
 - [x] [1.2 Linux使用技巧快速入门](./article/chapter1/1.2linux-quick-start.md)
-- [x][2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
+- [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
 
 ## 项目地址 https://github.com/wangxiaoleiAI/big-data
 
