@@ -13,11 +13,17 @@
 
 :cn: [中文文档]() :us: [English document](./docs/README-en.md)
 
-:tada:  最新文章：[“卜算子·大数据”目录——系列文章与源码介绍](#摘要)
+:tada:  **最新文章：**
+
+- [x][“卜算子·大数据”目录——系列文章与源码介绍,目录](#摘要)
+- [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.1virtualbox-quick-start.md)
+- [x] [1.2 Linux使用技巧快速入门](./article/chapter1/1.2linux-quick-start.md)
+- [x][2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
 
 ## 项目地址 https://github.com/wangxiaoleiAI/big-data
 
 ## 摘要
+
 - “卜算子·大数据”是什么？
 
  "卜算子·大数据"面向大数据生态组件编程、应用、架构，从入门到精通，让后端开发人员成为大数据开发工程师！
@@ -30,11 +36,18 @@
 - 你将学到什么？
 
   Linux、Java、Hadoop、Spark、Sqoop、hive、pig、hbase、zookeeper、Oozie、flink...etc，大数据生态的主流技术，面向大数据（分布式计算）的编程、应用、架构。其他技术体系请关注微信公众号【从入门到精通】。
+
+- 想学习大数据，却不知该如何下手？
+
+  关注这个项目就对了，会从入零开始，一步步走入大数据生态，编程、应用、架构。
+
 - 有不懂的如何交流？
+
   进微信群，有志同道合小伙伴，请关注微信公众号【从入门到精通】，获取微信群。
+
 - 谁在原创？
 
-关于作者，2014年进入大数据领域,任职某股份公司技术经理，主要从事大数据相关工作。
+  关于作者，2014年进入大数据领域,任职某股份公司技术经理，主要从事大数据相关工作。
 
 ## 关注公众号，进微信群交流，扫一扫，或者搜【从入门到精通】
 
@@ -51,7 +64,7 @@
 
 ## 第II部分 分布式计算应用构建与编程
 ### 第2章 Hadoop初步入门
-- [ ] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
+- [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
 - [ ] 2.2 hadoop集群式部署
 - [ ] 2.3 实战基于intellij IDEA开发第一个Hadoop应用程序
 
@@ -77,6 +90,10 @@
 ### 第8章 批处理——大数据应用架构
 
 ### 第9章 实时处理——大数据应用架构
+
+## 附录
+
+- [ ] [附录A Debian/Ubuntu18.04开发环境完美配置](./article/appendix/Ubuntu18.04-workstation.md)
 ### :pencil2: 该页面其余内容仍在努力构建中...
 Avro
 parquet
