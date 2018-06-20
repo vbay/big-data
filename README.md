@@ -16,8 +16,9 @@
 :tada:  **最新文章：**
 
 - [x] [“卜算子·大数据”目录——系列文章与源码介绍,目录](#摘要)
-- [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.1virtualbox-quick-start.md)
-- [x] [1.2 Linux使用技巧快速入门](./article/chapter1/1.2linux-quick-start.md)
+- [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.1Virtualbox虚拟机快速入门.md)
+- [x] [1.2 Linux使用技巧快速入门](./article/chapter1/1.2.linux使用技巧快速入门.md)
+- [x] [1.3 virtualbox高级应用构建本地大数据集群服务器](./article/chapter1/1.3.virtualbox高级应用构建本地大数据集群服务器.md)
 - [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
 
 ## 项目地址 https://github.com/wangxiaoleiAI/big-data
@@ -58,14 +59,15 @@
 
 ## 第I部分 为大数据做基础准备
 ### 第1章 开门见山
-- [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.1virtualbox-quick-start.md)
-- [x] [1.2 Linux使用技巧快速入门](./article/chapter1/1.2linux-quick-start.md)
-- [ ] 1.3 virtualbox虚拟机创建集群机器
+- [x] [1.1 Virtualbox虚拟机快速入门](./article/chapter1/1.1Virtualbox虚拟机快速入门.md)
+- [x] [1.2 Linux使用技巧快速入门](./article/chapter1/1.2.linux使用技巧快速入门.md)
+- [x] [1.3 virtualbox高级应用构建本地大数据集群服务器](./article/chapter1/1.3.virtualbox高级应用构建本地大数据集群服务器.md)
+
 
 ## 第II部分 分布式计算应用构建与编程
 ### 第2章 Hadoop初步入门
 - [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
-- [ ] 2.2 hadoop集群式部署
+- [ ] 2.2 hadoop大数据集群式配置、部署
 - [ ] 2.3 实战基于intellij IDEA开发第一个Hadoop应用程序
 
 ### 第3章 Sqoop从关系型数据库中获取数据
