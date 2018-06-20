@@ -20,6 +20,7 @@
 - [x] [1.2 Linux使用技巧快速入门](./article/chapter1/1.2.linux使用技巧快速入门.md)
 - [x] [1.3 virtualbox高级应用构建本地大数据集群服务器](./article/chapter1/1.3.virtualbox高级应用构建本地大数据集群服务器.md)
 - [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
+- [x] [2.2 Hadoop3.1.0完全分布式集群配置与部署](./article/chapter2/2.2.Hadoop完全分布式集群配置与部署.md)
 
 ## 项目地址 https://github.com/wangxiaoleiAI/big-data
 
@@ -50,7 +51,7 @@
 
   关于作者，2014年进入大数据领域,任职某股份公司技术经理，主要从事大数据相关工作。
 
-## 关注公众号，进微信群交流，扫一扫，或者搜【从入门到精通】
+## 大数据完整知识体系原创，请关注微信公众号【从入门到精通】，进群交流、获取一手更新资讯。
 
 ![](./article/image/user/share/qrcode_for_gh_6932763778ef_344.jpg)
 
@@ -67,7 +68,7 @@
 ## 第II部分 分布式计算应用构建与编程
 ### 第2章 Hadoop初步入门
 - [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
-- [ ] 2.2 hadoop大数据集群式配置、部署
+- [x] [2.2 Hadoop3.1.0完全分布式集群配置与部署](./article/chapter2/2.2.Hadoop完全分布式集群配置与部署.md)
 - [ ] 2.3 实战基于intellij IDEA开发第一个Hadoop应用程序
 
 ### 第3章 Sqoop从关系型数据库中获取数据
