@@ -22,6 +22,7 @@
 - [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
 - [x] [2.2 Hadoop3.1.0完全分布式集群配置与部署](./article/chapter2/2.2.Hadoop完全分布式集群配置与部署.md)
 
+
 ## 项目地址 https://github.com/wangxiaoleiAI/big-data
 
 ## 摘要
@@ -69,7 +70,7 @@
 ### 第2章 Hadoop初步入门
 - [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
 - [x] [2.2 Hadoop3.1.0完全分布式集群配置与部署](./article/chapter2/2.2.Hadoop完全分布式集群配置与部署.md)
-- [ ] 2.3 实战基于intellij IDEA开发第一个Hadoop应用程序
+- [ ] [2.2 基于IDEA开发第一个大数据程序WordCount](./article/chapter2/2.3基于IDEA开发第一个MapReduce大数据程序WordCount.md) 【构建中】
 
 ### 第3章 Sqoop从关系型数据库中获取数据
 - [ ] 3.1 Sqoop快速搭建
