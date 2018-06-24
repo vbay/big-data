@@ -21,7 +21,7 @@
 - [x] [1.3 virtualbox高级应用构建本地大数据集群服务器](./article/chapter1/1.3.virtualbox高级应用构建本地大数据集群服务器.md)
 - [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
 - [x] [2.2 Hadoop3.1.0完全分布式集群配置与部署](./article/chapter2/2.2.Hadoop完全分布式集群配置与部署.md)
-
+- [x] [2.３ 基于IDEA开发第一个大数据程序WordCount](./article/chapter2/2.3基于IDEA开发第一个MapReduce大数据程序WordCount.md)
 
 ## 项目地址 https://github.com/wangxiaoleiAI/big-data
 
@@ -70,7 +70,7 @@
 ### 第2章 Hadoop初步入门
 - [x] [2.1 Hadoop伪分布式部署](./article/chapter2/2.1hadoop-single-cluster.md)
 - [x] [2.2 Hadoop3.1.0完全分布式集群配置与部署](./article/chapter2/2.2.Hadoop完全分布式集群配置与部署.md)
-- [ ] [2.2 基于IDEA开发第一个大数据程序WordCount](./article/chapter2/2.3基于IDEA开发第一个MapReduce大数据程序WordCount.md) 【构建中】
+- [x] [2.３ 基于IDEA开发第一个大数据程序WordCount](./article/chapter2/2.3基于IDEA开发第一个MapReduce大数据程序WordCount.md)
 
 ### 第3章 Sqoop从关系型数据库中获取数据
 - [ ] 3.1 Sqoop快速搭建
