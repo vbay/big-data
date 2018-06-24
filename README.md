@@ -98,17 +98,52 @@
 ## 附录
 
 - [ ] [附录A Debian/Ubuntu18.04开发环境完美配置](./article/appendix/Ubuntu18.04-workstation.md)
-### :pencil2: 该页面其余内容仍在努力构建中...
-Avro
-parquet
-flume
-sqoop
-pig
-hive
-spark
-hbase
-zookeeper
-Oozie 工作流协调调度工具
+## :pencil2: 该页面其余内容仍在努力构建中...
 
+### 数据模式
+Apache Avro
+APache Parquet
+### 存储
+理论CAP、OLAP、OLTP、数据仓库
+HDFS(CP)
+Hbase(CP)
+Cassandra(CA)
+Phoenix(OLTP)
+Kylin(OLAP)
+
+### 服务器协调
+Zookeeper
+
+###　数据采集
+Apcahe Sqoop
+Apcahe Kafka
+Apcahe Flume
+
+### 数据分析、批处理系统
+Apcahe Hadoop MapReuce
+Apache Hive
+Apache Pig
+Apache Crunch
+Oozie
+
+###　流处理系统
+Apache Samza
+Apache Storm
+Apache Spark　Streaming
+Amazon Kinesis
+Kafka Streams
+Apache Flink
+
+
+### 大数据架构
+Lambda架构
+Kappa架构
+
+
+### 消息队列系统
+NIO
+netty
+rabitMQ
+Srping AMQ
 
 >项目起始：2018.06.11-晚
