@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8618af4a-b28e-4528-b447-d8674db7b115" name="Default" comment="" />
+    <list default="true" id="74068b5c-e4a2-4072-b401-0db1bf6454ad" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -49,55 +49,40 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WordCount2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/busuanzi/bigdata/wordcount/WordCount2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+            <state relative-caret-position="534">
+              <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
+              <folding>
+                <element signature="e#1151#1159#0" expanded="true" />
+                <element signature="e#4606#4614#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordCount2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/busuanzi/bigdata/wordcount/WordCount2.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#476#484#0" expanded="true" />
-                <element signature="e#3931#3939#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>name</find>
-      <find>input</find>
-      <find>conf</find>
-    </findStrings>
-  </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="/usr/local/Cellar/gradle/4.8/libexec" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.sdkman/candidates/gradle/4.8.1" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="4.8" />
+        <entry key="$PROJECT_DIR$" value="4.8.1" />
       </map>
     </option>
     <option name="availableProjects">
@@ -267,7 +252,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4588902683000" />
+        <entry key="$PROJECT_DIR$" value="4589151270000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2212318919" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2297659652" />
@@ -292,83 +277,83 @@
               <option name="name" value="WordCount" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-model-groovy-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-resources-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-tooling-api-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-core-api-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/ant-1.9.11.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-persistent-cache-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-docs-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-cli-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-launcher-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/ant-launcher-1.9.11.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-jvm-services-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-messaging-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/groovy-all-2.4.12.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-build-option-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-base-services-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-core-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-kotlin-dsl-0.17.5.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-model-core-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-base-services-groovy-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-installation-beacon-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-process-services-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-build-cache-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-runtime-api-info-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-native-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-logging-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/gradle-wrapper-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-build-init-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-testing-jvm-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-testing-base-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-platform-jvm-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-maven-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-code-quality-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-resources-s3-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-signing-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-resources-sftp-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-ivy-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-test-kit-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-language-java-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-language-groovy-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-osgi-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-reporting-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-antlr-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-resources-gcs-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-ide-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-platform-play-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-resources-http-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-scala-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-testing-native-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-dependency-management-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-composite-builds-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-publish-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-ear-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-language-jvm-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-platform-base-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-ide-native-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-diagnostics-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-plugin-development-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-workers-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-build-cache-http-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-javascript-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-version-control-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-language-native-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-build-comparison-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-plugins-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-jacoco-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-platform-native-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-plugin-use-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-announce-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-ide-play-4.8.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.8/libexec/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-model-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-base-services-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-core-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-persistent-cache-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-runtime-api-info-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-resources-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-base-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-jvm-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-docs-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-process-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-wrapper-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-installation-beacon-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-build-option-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-cli-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-core-api-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-messaging-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-logging-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-launcher-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-build-cache-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-model-core-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-tooling-api-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-maven-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-reporting-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-jacoco-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-announce-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-resources-s3-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-plugin-development-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-language-java-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-composite-builds-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-testing-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-ear-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-antlr-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-language-scala-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-language-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-ivy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-platform-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-resources-sftp-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-testing-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-testing-junit-platform-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-language-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-testing-base-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-scala-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-diagnostics-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-plugin-use-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-workers-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-signing-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-plugins-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-version-control-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-resources-http-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-language-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-build-comparison-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-resources-gcs-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-ide-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-publish-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-dependency-management-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-ide-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-code-quality-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-tooling-api-builders-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-javascript-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-osgi-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-platform-play-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-ide-play-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-platform-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-build-cache-http-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-build-init-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-test-kit-4.8.1.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/current/lib/plugins/gradle-platform-base-4.8.1.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -380,35 +365,22 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$USER_HOME$/Downloads/busuanzi-services" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/demo-2" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/display-service-2" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/multiple-database" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/spring-demo" value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-        <entry key="$USER_HOME$/project/ruizhi/bigdata-services" value="PREVIEW" />
-        <entry key="$USER_HOME$/project/ruizhi/cloud-services" value="PREVIEW" />
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/busuanzi/bigdata/wordcount/WordCount2.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="950" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="265" />
+    <option name="y" value="37" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -419,6 +391,35 @@
             <path>
               <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
               <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -440,54 +441,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="busuanzi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="busuanzi" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="busuanzi" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="wordcount" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WordCount" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -501,7 +465,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordCount2">
+  <component name="RunManager" selected="Gradle.WordCount [clean]">
     <configuration name="WordCount2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.busuanzi.bigdata.wordcount.WordCount2" />
       <module name="WordCount_main" />
@@ -516,23 +480,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="WordCount [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
     </configuration>
     <configuration name="WordCount [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -591,14 +538,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.WordCount2" />
-      <item itemvalue="Gradle.WordCount [build]" />
       <item itemvalue="Gradle.WordCount [clean]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordCount2" />
         <item itemvalue="Gradle.WordCount [clean]" />
-        <item itemvalue="Gradle.WordCount [build]" />
+        <item itemvalue="Application.WordCount2" />
       </list>
     </recent_temporary>
   </component>
@@ -607,63 +552,83 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8618af4a-b28e-4528-b447-d8674db7b115" name="Default" comment="" />
-      <created>1529630133134</created>
+      <changelist id="74068b5c-e4a2-4072-b401-0db1bf6454ad" name="Default" comment="" />
+      <created>1529719918352</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1529630133134</updated>
+      <updated>1529719918352</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="950" extended-state="6" />
-    <editor active="true" />
+    <frame x="265" y="37" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32942554" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32942554" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
-      <window_info anchor="bottom" id="Build" weight="0.32942554" />
-      <window_info anchor="right" id="Gradle" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298969" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25701624" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.3293944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/busuanzi/bigdata/wordcount/WordCount2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        <state relative-caret-position="1710">
+          <caret line="114" column="50" lean-forward="true" selection-start-line="114" selection-start-column="50" selection-end-line="114" selection-end-column="50" />
+          <folding>
+            <element signature="e#1151#1159#0" expanded="true" />
+            <element signature="e#4606#4614#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/busuanzi/bigdata/wordcount/WordCount2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        <state relative-caret-position="555">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#476#484#0" expanded="true" />
-            <element signature="e#3931#3939#0" expanded="true" />
+            <element signature="e#1151#1159#0" expanded="true" />
+            <element signature="e#4606#4614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/busuanzi/bigdata/wordcount/WordCount2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
+          <folding>
+            <element signature="e#1151#1159#0" expanded="true" />
+            <element signature="e#4606#4614#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -678,6 +643,17 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40066594" />
               </list>
             </option>
           </splitter-proportions>
