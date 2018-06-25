@@ -40,6 +40,101 @@
 
   Linux、Java、Hadoop、Spark、Sqoop、hive、pig、hbase、zookeeper、Oozie、flink...etc，大数据生态的主流技术，面向大数据（分布式计算）的编程、应用、架构。其他技术体系请关注微信公众号【从入门到精通】。
 
+  ## :pencil2: 该页面其余内容仍在努力构建中...
+
+  ### 数据模式
+
+  Apache Avro
+
+  APache Parquet
+
+  ### 存储
+
+  理论CAP、OLAP、OLTP、数据仓库
+
+  HDFS(CP)
+
+  Hbase(CP)
+
+  Cassandra(CA)
+
+  Phoenix(OLTP)
+
+  Kylin(OLAP)
+
+  ### 服务器协调
+
+  Zookeeper
+
+  ### 数据采集
+
+  Apcahe Sqoop
+
+  Apcahe Kafka
+
+  Apcahe Flume
+
+  ### 数据分析、批处理系统
+
+  Apcahe Hadoop MapReuce
+
+  Apache Hive
+
+  Apache Pig
+
+  Apache Crunch
+
+  Oozie
+
+  ### 大数据查询系统
+
+  ClickHouse
+
+  Phoenix
+
+  Presto
+
+  Impala
+
+  Druid
+
+  Kylin
+
+  Greenplum
+
+  ### 流处理系统
+
+  Apache Samza
+
+  Apache Storm
+
+  Apache Spark　Streaming
+
+  Amazon Kinesis
+
+  Kafka Streams
+
+  Apache Flink
+
+
+  ### 大数据架构
+
+  Lambda架构
+
+  Kappa架构
+
+
+  ### 消息队列系统
+
+  NIO
+
+  netty
+
+  rabitMQ
+
+  Srping AMQ
+
+
 - 想学习大数据，却不知该如何下手？
 
   关注这个项目就对了，会从入零开始，一步步走入大数据生态，编程、应用、架构。
@@ -98,98 +193,5 @@
 ## 附录
 
 - [ ] [附录A Debian/Ubuntu18.04开发环境完美配置](./article/appendix/Ubuntu18.04-workstation.md)
-## :pencil2: 该页面其余内容仍在努力构建中...
-
-### 数据模式
-
-Apache Avro
-
-APache Parquet
-
-### 存储
-
-理论CAP、OLAP、OLTP、数据仓库
-
-HDFS(CP)
-
-Hbase(CP)
-
-Cassandra(CA)
-
-Phoenix(OLTP)
-
-Kylin(OLAP)
-
-### 服务器协调
-
-Zookeeper
-
-### 数据采集
-
-Apcahe Sqoop
-
-Apcahe Kafka
-
-Apcahe Flume
-
-### 数据分析、批处理系统
-
-Apcahe Hadoop MapReuce
-
-Apache Hive
-
-Apache Pig
-
-Apache Crunch
-
-Oozie
-
-### 大数据查询系统
-
-ClickHouse
-
-Phoenix
-
-Presto
-
-Impala
-
-Druid
-
-Kylin
-
-Greenplum
-
-### 流处理系统
-
-Apache Samza
-
-Apache Storm
-
-Apache Spark　Streaming
-
-Amazon Kinesis
-
-Kafka Streams
-
-Apache Flink
-
-
-### 大数据架构
-
-Lambda架构
-
-Kappa架构
-
-
-### 消息队列系统
-
-NIO
-
-netty
-
-rabitMQ
-
-Srping AMQ
 
 >项目起始：2018.06.11-晚
