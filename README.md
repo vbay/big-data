@@ -114,7 +114,7 @@ Kylin(OLAP)
 ### 服务器协调
 Zookeeper
 
-###　数据采集
+### 数据采集
 Apcahe Sqoop
 Apcahe Kafka
 Apcahe Flume
