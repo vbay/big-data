@@ -7,3 +7,9 @@ article/image/.DS_Store
 article/image/chapter1/.DS_Store
 article/image/user/.DS_Store
 article/image/user/share/.DS_Store
+
+**.DS_Store
+**/.idea
+**/.gradle
+**/out
+**/build
