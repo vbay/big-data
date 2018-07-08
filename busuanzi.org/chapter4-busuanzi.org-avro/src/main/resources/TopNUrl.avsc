@@ -1,0 +1,9 @@
+{"namespace": "org.busuanzi.avro",
+  "type": "record",
+  "name": "TopNUrl",
+  "fields": [
+      {"name": "url", "type": "string"},
+      {"name": "star_number",  "type": ["int", "null"]},
+      {"name": "comment_number", "type": ["int", "null"]}
+  ]
+ }
