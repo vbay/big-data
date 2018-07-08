@@ -2,6 +2,8 @@
 
 “卜算子·大数据”，是一个开源、成体系的大数据学习教程。从基础数据采集到顶层架构设计。最新梳理出大数据知识体系共计12个部分，42个章节。
 
+:star:[**Star**](https://github.com/wangxiaoleiai/big-data) [收藏项目](https://github.com/wangxiaoleiai/big-data)
+
 **每周日更新，金九银十际，助你上青天！**
 
 本章主要内容:
