@@ -1,0 +1,2 @@
+DESCRIBE TABLES;
+查看当前数据表
