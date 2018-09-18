@@ -1,7 +1,7 @@
 #!/bin/sh
 # Author:wangxiaolei 王小雷
 # Blog: http://blog.csdn.net/dream_an
-# Github: https://github.com/wangxiaoleiai
+# Github: https://github.com/lycheeman
 # Path: /etc/profile.d/
 # Date:20180615
 

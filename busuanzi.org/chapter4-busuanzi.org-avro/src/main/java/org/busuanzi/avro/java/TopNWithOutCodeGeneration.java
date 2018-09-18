@@ -31,7 +31,7 @@ public class TopNWithOutCodeGeneration {
         Schema schema = new Parser().parse(new File(topNUrlResource.getPath()));
 
         GenericRecord topNUrl1 = new GenericData.Record(schema);
-        topNUrl1.put("url", "https://github.com/wangxiaoleiAI/big-data");
+        topNUrl1.put("url", "https://github.com/lycheeman/big-data");
         topNUrl1.put("star_number", 100);
         // Leave comment_number color null
 

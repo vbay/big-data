@@ -1,6 +1,6 @@
 #!/bin/sh
 # Author:wangxiaolei 王小雷
-# Github: https://github.com/wangxiaoleiai
+# Github: https://github.com/lycheeman
 
 export JAVA_HOME=/opt/java/jdk1.8.0_172
 export JRE_HOME=${JAVA_HOME}/jre

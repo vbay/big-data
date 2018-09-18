@@ -2,7 +2,7 @@
 
 “卜算子·大数据”，是一个开源、成体系的大数据学习教程。从基础数据采集到顶层架构设计。最新梳理出大数据知识体系共计12个部分，42个章节。
 
-:star:[**Star**](https://github.com/wangxiaoleiai/big-data) [收藏项目](https://github.com/wangxiaoleiai/big-data)
+:star:[**Star**](https://github.com/lycheeman/big-data) [收藏项目](https://github.com/lycheeman/big-data)
 
 **每周日更新，金九银十际，助你上青天！**
 
@@ -17,7 +17,7 @@
 
 **关于** ——“卜算子·大数据”，其中“卜算子”是中国诗词中唯一包含计算、占卜、预测寓意的词牌名，而后跟的大数据，亦是如此。“卜算子·大数据”合二为一，再合适不过了。
 
-**开源** ——“卜算子·大数据”，是一个开源的大数据教程。所有原创文章与源代码在Github仓库上，地址　https://github.com/wangxiaoleiai/big-data　（但是有转载或者引用者要注明作者和来源信息，格式见2.1.5）
+**开源** ——“卜算子·大数据”，是一个开源的大数据教程。所有原创文章与源代码在Github仓库上，地址　https://github.com/lycheeman/big-data　（但是有转载或者引用者要注明作者和来源信息，格式见2.1.5）
 
 **实践出真知** ——从构建到编程，以 ** busuanzi.org ** 为大数据教程实践项目。
 
@@ -104,14 +104,14 @@
 ### 第十二部分　附录
 - 第42章　Linux常用开发环境部署
 
-获取最新目录地址：https://github.com/wangxiaoleiAI/big-data
+获取最新目录地址：https://github.com/lycheeman/big-data
 
 ## 1.3 项目更新
 每周更新，主要将在Github,CSDN,微信公众号更新。
 
 **busuanzi.org 是“卜算子·大数据”大数据学习教程中的实践项目。**
 
-**Github文章、源码每周更新 https://github.com/wangxiaoleiAI/big-data**
+**Github文章、源码每周更新 https://github.com/lycheeman/big-data**
 
 **CSDN地址文章每周更新 https://blog.csdn.net/dream_an**
 
@@ -143,7 +143,7 @@
 ## 1.５ 原创声明
 凡是转载或者摘选作者文章资源者，需要带上原创作者信息与原文Github地址，如下所示
 >原创作者：王小雷  
->作品出自：https://github.com/wangxiaoleiAI/big-data  
+>作品出自：https://github.com/lycheeman/big-data  
 >联系邮件：wov@outlook.com
 
 

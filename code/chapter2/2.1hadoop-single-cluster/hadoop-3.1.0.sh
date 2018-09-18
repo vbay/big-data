@@ -1,6 +1,6 @@
 #!/bin/sh
 # Author:wangxiaolei 王小雷
-# Github: https://github.com/wangxiaoleiai
+# Github: https://github.com/lycheeman
 
 export HADOOP_HOME="/opt/hadoop/hadoop-3.1.0"
 export PATH="$HADOOP_HOME/bin:$PATH"

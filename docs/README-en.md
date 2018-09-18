@@ -1,9 +1,9 @@
 :us:English
 ---------
 
-***:star:[Star](https://github.com/wangxiaoleiAI/big-data.git)***
-***:fire:[Fork](https://github.com/wangxiaoleiAI/big-data.git)*** :rocket:[Follow](https://github.com/wangxiaoleiAI)
- :boom:[评issues](https://github.com/wangxiaoleiAI/big-data/issues/2)
+***:star:[Star](https://github.com/lycheeman/big-data.git)***
+***:fire:[Fork](https://github.com/lycheeman/big-data.git)*** :rocket:[Follow](https://github.com/lycheeman)
+ :boom:[评issues](https://github.com/lycheeman/big-data/issues/2)
 
 
 ### coming soon...

@@ -20,7 +20,7 @@ public class TopNWithCodeGeneration {
     public static void main(String[] args) throws IOException {
         // 此处TopNUrl需要通过java -jar avro-tools-1.8.2.jar compile schema TopNUrl.avsc . 自动生成TopNUrl.java
         TopNUrl TopNUrl1 = new TopNUrl();
-        TopNUrl1.setUrl("https://github.com/wangxiaoleiAI/big-data");
+        TopNUrl1.setUrl("https://github.com/lycheeman/big-data");
         TopNUrl1.setStarNumber(1000);
         // Leave favorite color null
 

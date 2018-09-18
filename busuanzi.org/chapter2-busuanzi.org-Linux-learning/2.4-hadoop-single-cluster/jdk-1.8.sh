@@ -1,8 +1,8 @@
 #!/bin/sh
 # Author:wangxiaolei 王小雷
 # Blog: http://blog.csdn.net/dream_an
-# Github: https://github.com/wangxiaoleiai
-# project: https://github.com/wangxiaoleiai/big-data
+# Github: https://github.com/lycheeman
+# project: https://github.com/lycheeman/big-data
 # Date: 2018.05
 # Path: /etc/profile.d/
 
