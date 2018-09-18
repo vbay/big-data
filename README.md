@@ -4,7 +4,7 @@
 
 :star:[**Star**](https://github.com/lycheeman/big-data) [收藏项目](https://github.com/lycheeman/big-data)
 
-**每周日更新，金九银十际，助你上青天！**
+** 配套 卜算子·大数据 big-data-example 项目源码 [GitHub地址](https://github.com/lycheeman/big-data) [码云地址](git@gitee.com:machinelearning/big-data-example.git) **
 
 本章主要内容:
 - [x] 特点
@@ -35,10 +35,10 @@
 
 [来不及解释了~] 上全图！记得点击**收藏**哦~
 
-![](./article/image/卜算子·大数据@3x.png)
+![](./image/卜算子·大数据@3x.png)
 
 ### 第一部分 大数据开篇
-- 第1章　[卜算子·大数据简介](./article/chapter1/1.卜算子·大数据简介.md)
+- 第1章　[卜算子·大数据简介](./chapter1/1.卜算子·大数据简介.md)
 - 第2章　Linux
 - 第3章　大数据需要哪些编程语言基础
 
@@ -148,4 +148,4 @@
 
 
 关注“从入门到精通”立即获得教程
-![](./article/image/从入门到精通-公众号.jpg)
+![](./image/从入门到精通-公众号.jpg)
