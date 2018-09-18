@@ -4,7 +4,9 @@
 
 :star:[**Star**](https://github.com/lycheeman/big-data) [收藏项目](https://github.com/lycheeman/big-data)
 
-** 配套 卜算子·大数据 big-data-example 项目源码 [GitHub地址](https://github.com/lycheeman/big-data) [码云地址](git@gitee.com:machinelearning/big-data-example.git) **
+- ** 配套 卜算子·大数据 项目源码 **
+  - [GitHub地址](https://github.com/lycheeman/big-data) https://github.com/lycheeman/big-data
+  - [码云地址](https://gitee.com/machinelearning/big-data-example) https://gitee.com/machinelearning/big-data-example
 
 本章主要内容:
 - [x] 特点
