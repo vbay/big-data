@@ -1,7 +1,7 @@
 # 1.hadoop部署模式分类
 - 本地模式
 - 伪分布式，单台机器模拟多台机器分布式环境。
-- 分布式（高可用HA），多台机器且不同的机器负责不同的角色。
+- 完全分布式（高可用HA），多台机器且不同的机器负责不同的角色。
     - 高可用QJM（Quorum Journal Manager）
     - 高可用NFS (HDFS High Availability )
 
@@ -64,9 +64,26 @@ ssh
 Hadoop下载、解压
 Hadoop https://mirrors.tuna.tsinghua.edu.cn/apache/hadoop/common/hadoop-3.2.1/hadoop-3.2.1.tar.gz
 
+本地上传到虚拟机（服务器）
 
-Hadoop
+```sh
+scp ~/Documents/bigfile/apache/hadoop-3.2.1.tar.gz xiaolei@192.168.56.116:~/jar/
 
+scp ~/Documents/bigfile/jdk/jdk-8u231-linux-x64.tar.gz xiaolei@192.168.56.116:~/jar/
+```
+
+
+解压hadoop并移动
+```sh
+tar -zxf hadoop-3.2.1.tar.gz
+
+sudo mv hadoop-3.2.1 /opt/hadoop
+```
+解压Java并移动
+```sh
+tar -zxf jdk-8u231-linux-x64.tar.gz 
+sudo mv jdk1.8.0_231/ /opt/java
+```
 
 ## 2.4 免密登录
 
@@ -142,6 +159,8 @@ http://虚拟机ip:9870/
 # 4.部署yarn
 
 ## 4.1 修改配置文件
+
+<--暂不操作
 ```sh
 vim /opt/hadoop/etc/hadoop/yarn-env.sh 
 ```
@@ -149,7 +168,7 @@ vim /opt/hadoop/etc/hadoop/yarn-env.sh
 ```xml
 JAVA_HOME=/opt/java
 ```
-
+-->
 
 ```sh
 vim /opt/hadoop/etc/hadoop/mapred-site.xml:
