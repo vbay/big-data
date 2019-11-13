@@ -7,6 +7,9 @@
 
 本次为伪分布式部署
 
+![hadoop api](../pictures/class/15/hadoop-pre.png)
+
+
 # 2.安装必要软件
 ## 2.1 Ubuntu18.04安装JDK
 
